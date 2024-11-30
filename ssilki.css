@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0;
+/* background: linear-gradient(90deg, rgb(166, 181, 221), rgb(182, 232, 183)); */
+background-color: antiquewhite;
+}
+.btn{ padding: .3rem; background-color: white; }
+a:hover{ color: red;} 
+
+h1{text-align: center;}
+a{text-decoration: none;}
